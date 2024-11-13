@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\sababurduli\sababurduli\bin\Debug\sababurduli.exe.config
+C:\Users\User\Desktop\sababurduli\sababurduli\bin\Debug\sababurduli.exe
+C:\Users\User\Desktop\sababurduli\sababurduli\bin\Debug\sababurduli.pdb
+C:\Users\User\Desktop\sababurduli\sababurduli\obj\Debug\sababurduli.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\sababurduli\sababurduli\obj\Debug\sababurduli.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\sababurduli\sababurduli\obj\Debug\sababurduli.exe
+C:\Users\User\Desktop\sababurduli\sababurduli\obj\Debug\sababurduli.pdb
+C:\Users\User\Desktop\sababurduli main project\sababurduli\bin\Debug\sababurduli.exe.config
+C:\Users\User\Desktop\sababurduli main project\sababurduli\bin\Debug\sababurduli.exe
+C:\Users\User\Desktop\sababurduli main project\sababurduli\bin\Debug\sababurduli.pdb
+C:\Users\User\Desktop\sababurduli main project\sababurduli\obj\Debug\sababurduli.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\sababurduli main project\sababurduli\obj\Debug\sababurduli.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\sababurduli main project\sababurduli\obj\Debug\sababurduli.exe
+C:\Users\User\Desktop\sababurduli main project\sababurduli\obj\Debug\sababurduli.pdb
