@@ -63,7 +63,7 @@ Player 2 uses O.</li>
 
 <br>
 
-<h3>Key Functions</h3>
+<h3>💡Key Functions</h3>
 <ol>
   <li><strong>PrintBoard()</strong>: Displays the current state of the board.</li>
   <li><strong>CheckForWin()</strong>: Determines if a player has won.</li>
@@ -72,7 +72,7 @@ Player 2 uses O.</li>
 </ol>
 
 <br>
-<h1>What I Learned</h1>
+<h1>📚What I Learned</h1>
 <ul>
   <li><strong>Basic C# Syntax:</strong>strong> Variables, loops, conditionals, and functions.</li>
   <li><strong>Arrays:</strong> Using a 2D array to represent the game board.</li>
@@ -80,7 +80,13 @@ Player 2 uses O.</li>
   <li><strong>Problem Solving:</strong> Breaking down the game logic into smaller, manageable parts.</li>
 </ul>
 
-... (game continues)
+<br>
+<h1>✨Future Improvements</h1>
+<ul>
+  <li>🔧Add a <strong>single-player mode</strong>strong> against an AI.</li>
+  <li>🔧Improve the <strong>UI with colors or ASCII art.</strong>strong></li>
+  <li>🔧Add a <strong>score tracker</strong>strong> for multiple rounds.</li>
+</ul>
 
 <br>
 <br>
