@@ -25,7 +25,7 @@ lets dive in this 3 reason deepily :
 </p>
 <br>
 <br>
-<h1>How to Play</h1>
+🎮<h1>How to Play</h1>
 <ol>
   <li>The game is played on a 3x3 grid.</li>
   <li>Two players take turns marking a space in the grid:
@@ -40,7 +40,7 @@ Player 2 uses O.</li>
 <br>
 <br>
 
-<h1>Features</h1>
+✨<h1>Features</h1>
 <ul>
   <li><strong>Interactive Gameplay:</strong>Players take turns entering their moves via the console.</li>
   <li><strong>Input Validation:</strong> The game ensures valid moves (e.g., no overwriting existing moves).</li>
@@ -51,7 +51,7 @@ Player 2 uses O.</li>
 <br>
 <br>
 
-<h1>Code Structure</h1>
+🌐<h1>Code Structure</h1>
 <p>Here’s a brief overview of the code:</p>
 
 <h3><strong>Main Components</strong></h3>
