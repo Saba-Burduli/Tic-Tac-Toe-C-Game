@@ -1,7 +1,14 @@
 
 <h1>This is my First Console Project in C#</h1>
 
-<p>In this paragraph im gonna talk about my first experience making Console Application using only c# and for editor and IDE Visual Studio 2022</p>
+<p>In this Paragraph im gonna talk about my first experience making Console Application using only c# and for editor and IDE Visual Studio 2022</p>
+
+<h2>So first lets talk about Visual studio Role making Console App (why is this editor best Option for Begginers) </h2>
+<ul>
+  <li> Integrated Development Environment (IDE) with Beginner-Friendly Features</li>
+  <li> Seamless Integration with .NET Ecosystem</li>
+  <li> Extensive Learning Resources and Community Support</li>
+</ul>
 
 
 
