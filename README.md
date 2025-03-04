@@ -37,13 +37,15 @@ Player 2 uses O.</li>
   <li>If all spaces are filled and no player has won, the game ends in a draw.</li>
 </ol>
 
+<br>
+<br>
 
 <h1>Features</h1>
 <ul>
-  <li>Interactive Gameplay: Players take turns entering their moves via the console.</li>
-  <li>Input Validation: The game ensures valid moves (e.g., no overwriting existing moves).</li>
-  <li>Win/Draw Detection: The game checks for a winner or a draw after every move.</li>
-  <li>Simple and Clean Code: Easy-to-understand logic for beginners.</li>
+  <li>**Interactive Gameplay:** Players take turns entering their moves via the console.</li>
+  <li>**Input Validation:** The game ensures valid moves (e.g., no overwriting existing moves).</li>
+  <li>**Win/Draw Detection:** The game checks for a winner or a draw after every move.</li>
+  <li>**Simple and Clean Code:** Easy-to-understand logic for beginners.</li>
 </ul>
 
 
