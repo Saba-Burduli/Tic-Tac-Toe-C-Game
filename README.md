@@ -48,6 +48,18 @@ Player 2 uses O.</li>
   <li><strong>Simple and Clean Code:</strong> Easy-to-understand logic for beginners.</li>
 </ul>
 
+<br>
+<br>
+
+<h1>Code Structure</h1>
+<p>Here’s a brief overview of the code:</p>
+
+<h3><strong>Main Components</strong></h3>
+<ol>
+  <li><strong>Game Board:</strong> Represented as a 3x3 array.</li>
+  <li><strong>Player Turns:</strong> Alternates between Player 1 (X) and Player 2 (O).</li>
+  <li><strong>Win/Draw Logic:</strong> Checks for winning conditions or a draw after each move.</li>
+</ol>
 
 
 
