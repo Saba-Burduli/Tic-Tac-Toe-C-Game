@@ -1,9 +1,9 @@
-
-<h1>This is my First Console Project in C#</h1>
+<h1>Tic-Tac-Toe Console Game in C#</h1>
+<h2>Welcome to my first C# console application! This is a simple implementation of the classic Tic-Tac-Toe game, built as a beginner project to learn C# programming concepts.</h2>
 
 <p>In this Paragraph im gonna talk about my first experience making Console Application using only c# and for editor and IDE Visual Studio 2022</p>
 
-<h2>So first let's talk about Visual studio 2022 Role, making Console Applications .. (why is this editor best Option for Begginers) </h2>
+<h2>So first let's talk about Visual studio 2022 Role, making Console Applications .. (why is this editor best Option for Begginers and why i choose) </h2>
 <ul>
   <li> Integrated Development Environment (IDE) with Beginner-Friendly Features</li>
   <li> Seamless Integration with .NET Ecosystem</li>
@@ -20,8 +20,19 @@ lets dive in this 3 reason deepily :
 
 **Templates** and Wizards: Pre-built project templates and wizards help beginners get started quickly without worrying about setting up complex configurations.
 </p>
+<br>
+<br>
+<h1>How to Play</h1>
+<ol>
+  <li>The game is played on a 3x3 grid.</li>
+  <li>Two players take turns marking a space in the grid:
 
+Player 1 uses X.
 
+Player 2 uses O.</li>
+  <li>The first player to get 3 of their marks in a row (horizontally, vertically, or diagonally) wins!</li>
+  <li>If all spaces are filled and no player has won, the game ends in a draw.</li>
+</ol>
 
 
 
