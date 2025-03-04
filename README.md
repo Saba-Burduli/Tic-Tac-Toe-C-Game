@@ -65,10 +65,10 @@ Player 2 uses O.</li>
 
 <h3>Key Functions</h3>
 <ol>
-  <li>`PrintBoard()`: Displays the current state of the board.</li>
-  <li>`CheckForWin()`: Determines if a player has won.</li>
-  <li>`CheckForDraw()`: Checks if the game is a draw.</li>
-  <li>`PlayerMove()`: Handles player input and updates the board.</li>
+  <li>- `PrintBoard()`: Displays the current state of the board.</li>
+  <li>- `CheckForWin()`: Determines if a player has won.</li>
+  <li>- `CheckForDraw()`: Checks if the game is a draw.</li>
+  <li>- `PlayerMove()`: Handles player input and updates the board.</li>
 </ol>
 
 <br>
