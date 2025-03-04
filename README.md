@@ -1,14 +1,17 @@
 <h1>Tic-Tac-Toe Console Game in C#</h1>
+<br>
 <h2>Welcome to my first C# console application! This is a simple implementation of the classic Tic-Tac-Toe game, built as a beginner project to learn C# programming concepts.</h2>
-
+<br>
 <p>In this Paragraph im gonna talk about my first experience making Console Application using only c# and for editor and IDE Visual Studio 2022</p>
 
 <h2>So first let's talk about Visual studio 2022 Role, making Console Applications .. (why is this editor best Option for Begginers and why i choose) </h2>
+<br>
 <ul>
   <li> Integrated Development Environment (IDE) with Beginner-Friendly Features</li>
   <li> Seamless Integration with .NET Ecosystem</li>
   <li> Extensive Learning Resources and Community Support</li>
 </ul> 
+<br>
 lets dive in this 3 reason deepily :
 <h3> Integrated Development Environment (IDE) with Beginner-Friendly Features</h3>
 <p>
@@ -34,6 +37,14 @@ Player 2 uses O.</li>
   <li>If all spaces are filled and no player has won, the game ends in a draw.</li>
 </ol>
 
+
+<h1>Features</h1>
+<ul>
+  <li>Interactive Gameplay: Players take turns entering their moves via the console.</li>
+  <li>Input Validation: The game ensures valid moves (e.g., no overwriting existing moves).</li>
+  <li>Win/Draw Detection: The game checks for a winner or a draw after every move.</li>
+  <li>Simple and Clean Code: Easy-to-understand logic for beginners.</li>
+</ul>
 
 
 
