@@ -24,7 +24,7 @@ lets dive in this 3 reason deepily :
 **Templates** and Wizards: Pre-built project templates and wizards help beginners get started quickly without worrying about setting up complex configurations.
 </p>
 <br>
-<br>
+
 <h1>🎮How to Play</h1>
 <ol>
   <li>The game is played on a 3x3 grid.</li>
@@ -38,7 +38,7 @@ Player 2 uses O.</li>
 </ol>
 
 <br>
-<br>
+
 
 <h1>✨Features</h1>
 <ul>
@@ -49,7 +49,7 @@ Player 2 uses O.</li>
 </ul>
 
 <br>
-<br>
+
 
 <h1>🌐Code Structure</h1>
 <p>Here’s a brief overview of the code:</p>
@@ -62,9 +62,18 @@ Player 2 uses O.</li>
 </ol>
 
 <br>
+
+<h3>Key Functions</h3>
+<ol>
+  <li>PrintBoard(): Displays the current state of the board.</li>
+  <li>CheckForWin(): Determines if a player has won.</li>
+  <li>CheckForDraw(): Checks if the game is a draw.</li>
+  <li>PlayerMove(): Handles player input and updates the board.</li>
+</ol>
+
 <br>
 <br>
-<br>
+
 
 ![image](https://github.com/user-attachments/assets/c8a1a853-522c-4db6-b0c0-6b9e5dcc5753)
 ![image](https://github.com/user-attachments/assets/85e93187-f942-4833-8f4e-ce7cf02fefcb)
