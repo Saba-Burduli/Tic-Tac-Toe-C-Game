@@ -72,6 +72,33 @@ Player 2 uses O.</li>
 </ol>
 
 <br>
+Welcome to Tic-Tac-Toe!
+
+ 1 | 2 | 3
+-----------
+ 4 | 5 | 6
+-----------
+ 7 | 8 | 9
+
+Player X, enter your move (1-9): 5
+
+ 1 | 2 | 3
+-----------
+ 4 | X | 6
+-----------
+ 7 | 8 | 9
+
+Player O, enter your move (1-9): 1
+
+ O | 2 | 3
+-----------
+ 4 | X | 6
+-----------
+ 7 | 8 | 9
+
+... (game continues)
+
+<br>
 <br>
 
 
