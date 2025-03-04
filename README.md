@@ -72,29 +72,13 @@ Player 2 uses O.</li>
 </ol>
 
 <br>
-Welcome to Tic-Tac-Toe!
-
- 1 | 2 | 3
------------
- 4 | 5 | 6
------------
- 7 | 8 | 9
-
-Player X, enter your move (1-9): 5
-
- 1 | 2 | 3
------------
- 4 | X | 6
------------
- 7 | 8 | 9
-
-Player O, enter your move (1-9): 1
-
- O | 2 | 3
------------
- 4 | X | 6
------------
- 7 | 8 | 9
+<h1>What I Learned</h1>
+<ul>
+  <li><strong>Basic C# Syntax:</strong>strong> Variables, loops, conditionals, and functions.</li>
+  <li><strong>Arrays:</strong> Using a 2D array to represent the game board.</li>
+  <li><strong>Input Handling:</strong> Validating user input to ensure correct gameplay.</li>
+  <li><strong>Problem Solving:</strong> Breaking down the game logic into smaller, manageable parts.</li>
+</ul>
 
 ... (game continues)
 
